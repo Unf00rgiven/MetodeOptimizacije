@@ -1,0 +1,19 @@
+Genetski algoritam - 
+
+Pseudo kod npr. za mutaciju inverzijom
+Recima, kodom
+Ruletska selekcija
+Jednotackasto ukrstanje
+
+PSO algoritam - 
+    PI - Personal Best
+    G - Global Best
+    vazne formule:
+        v[k + 1]
+	x[k + 1]
+
+Npr. Koje su to tri komponente koje definisu kako se menja skok, brzina u PSO
+Koja komponenta je dominantna na pocetku, kraju
+Pseudo kod neki, eventualno
+
+
